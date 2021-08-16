@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/feelgood.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.navbar {
+    padding: 145px;
+}
+.navbar a {
+    float: right;
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.column {
+    color: brown;
+    width: 490px;
+    padding-top: 170px;
+}
